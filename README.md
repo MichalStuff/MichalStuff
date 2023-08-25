@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichalStuff
 - 👀 I’m interested in Programing, Motorcycles
-- 🌱 I’m currently learning JavaScript and JS frameworks
+- 🌱 I’m currently learning JavaScript, React and .NET
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me ...
 
